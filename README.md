@@ -69,4 +69,4 @@ Varcons Technologies, Full Stack Web Development Internship, June 2023
 
 ## License
 
-*(Agree this with your teammates, and check that Varcons allows the work to be published. If everyone agrees, MIT is a sensible choice.)*
+MIT
